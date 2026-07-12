@@ -1,0 +1,25 @@
+{
+  "visual": {
+    "name": "legoBuilder",
+    "displayName": "Mini LEGO Builder",
+    "guid": "legoBuilderFCB8E2593444CC9B",
+    "visualClassName": "Visual",
+    "version": "1.0.0.0",
+    "description": "A playful interactive LEGO builder. Drag colorful bricks onto a plate to build simple models. Purely decorative — it does not bind to or affect report data.",
+    "supportUrl": "https://github.com/bedooralmareni/powerbi-lego-builder",
+    "gitHubUrl": "https://github.com/bedooralmareni/powerbi-lego-builder"
+  },
+  "apiVersion": "5.11.0",
+  "author": {
+    "name": "bedooralmareni",
+    "email": "97242283+bedooralmareni@users.noreply.github.com"
+  },
+  "assets": {
+    "icon": "assets/icon.png"
+  },
+  "externalJS": [],
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "dependencies": null,
+  "stringResources": []
+}
